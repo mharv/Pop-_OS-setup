@@ -18,3 +18,4 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "['<Super>
 # mention coc, telescope
 # mention vim-go
 # include ~/.config/nvim/init.vim
+# https://github.com/BurntSushi/ripgrep#installation for telescope
