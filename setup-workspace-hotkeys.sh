@@ -14,4 +14,5 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "['<Super>
 
 
 # add in setup nvim
-
+# https://github.com/neovim/neovim/releases - download versions
+# mention coc, telescope
