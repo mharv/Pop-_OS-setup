@@ -15,7 +15,11 @@ gsettings set org.gnome.desktop.wm.keybindings switch-to-workspace-10 "['<Super>
 
 # add in setup nvim
 # https://github.com/neovim/neovim/releases - download versions
+# install vimPlug sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+#       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+
 # mention coc, telescope
 # mention vim-go
 # include ~/.config/nvim/init.vim
 # https://github.com/BurntSushi/ripgrep#installation for telescope
+
